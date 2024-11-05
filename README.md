@@ -5,6 +5,6 @@
 
 Production 2.0 internal holder modified in collaboration with Rob Fetcho.
 
-For other, more professionally designed holders please see [the apollo](https://github.com/Coen-Lab/chronic-neuropixels) or [the indie](https://github.com/spkware/chronic_holder)
+For other holders (that were designed for mice from the start) please see [the apollo](https://github.com/Coen-Lab/chronic-neuropixels) or [the indie](https://github.com/spkware/chronic_holder)
 
 Feel free to contact me about these designs with any questions at jkaminsky@princeton.edu
