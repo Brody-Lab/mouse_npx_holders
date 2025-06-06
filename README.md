@@ -3,6 +3,8 @@
 
 Printable files for Jesse Kaminsky's chronic neuropixel holders. All designs were modified in tinkercad from the original holders used for rats found in [Luo, Bondy, et al. 2020 eLife](https://elifesciences.org/articles/59716). Because of this I currently only have mesh files for these designs, and no true 3d structural file. Someday I'll learn actual 3D modelling...
 
+Assembly instructions are [here](https://github.com/Brody-Lab/mouse_npx_holders/blob/main/Neuropixels%202.0%20Implant%20Assembly%20Instructions.pdf).
+
 Production 2.0 internal holder modified in collaboration with [Rob Fetcho](https://scholar.google.com/citations?user=SHq1IlIAAAAJ&hl=en).
 
 Narrower versions of production 2.0s by [Jorge Yanar](https://scholar.google.com/citations?user=Estf_eEAAAAJ&hl=en).
