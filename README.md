@@ -1,5 +1,5 @@
 # The Tuckbox - neuropixel 2.0 holders for chronic electrophysiology in mice
-<img src="https://github.com/Brody-Lab/mouse_npx_holders/blob/main/jorge_chronic_holder_schematic.png" align="left" height="300" width="300" >
+<img src="https://github.com/Brody-Lab/mouse_npx_holders/blob/main/jorge_chronic_holder_schematic.png" align="left" height="310" width="310" >
 
 Printable files for Jesse Kaminsky's chronic neuropixel holders. All designs were modified in tinkercad from the original holders used for rats found in [Luo, Bondy, et al. 2020 eLife](https://elifesciences.org/articles/59716). Because of this I currently only have mesh files for these designs, and no true 3d structural file. Someday I'll learn actual 3D modelling...
 
