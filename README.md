@@ -9,7 +9,7 @@ Production 2.0 internal holder modified in collaboration with [Rob Fetcho](https
 
 Narrower versions of production 2.0s by [Jorge Yanar](https://scholar.google.com/citations?user=Estf_eEAAAAJ&hl=en).
 
-There is also a version of the narrower holders with a cap, allowing complete protection of the probe without any protective wrapping (for single-housed mice). However, this is a work in progress so use at your own risk.
+There is also a version of the [narrower holders with a cap](https://github.com/Brody-Lab/mouse_npx_holders/tree/main/production%20npx/npx2%20production%20narrow%20with%20cap), allowing complete protection of the probe/flex without any protective wrapping (for single-housed mice).
 
 For other holders (that were designed for mice from the start) please see [this awesome resource](https://github.com/Julie-Fabre/awesome_neuropixels).
 
